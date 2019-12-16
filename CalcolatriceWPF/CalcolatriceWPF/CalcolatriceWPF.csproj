@@ -4,16 +4,12 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>netcoreapp3.0</TargetFramework>
     <UseWPF>true</UseWPF>
-    <ApplicationIcon />
+    <ApplicationIcon>iconfinder_calculator_icon_1741324.ico</ApplicationIcon>
     <Win32Resource />
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="MvvmLightLibs" Version="5.4.1.1" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Icona\" />
   </ItemGroup>
 
 </Project>

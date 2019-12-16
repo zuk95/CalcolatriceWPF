@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CalcolatriceWPF"
         mc:Ignorable="d"
-        Title="CalcolatriceView" Height="350" Width="300">
+        Title="Calcolatrice" Height="350" Width="300">
     <Grid>
         <DockPanel>
             <Label Margin="5" DockPanel.Dock="Top" Content="{Binding Display}" FontSize="25" MinHeight="60" Background="Black" Foreground="LightGreen" VerticalContentAlignment="Center" HorizontalContentAlignment="Right"></Label>
